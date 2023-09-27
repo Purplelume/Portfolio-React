@@ -37,4 +37,4 @@ If you have any questions or would like to get in touch, please feel free to rea
 
 ![Portfolio Landing Page](./src/assets/images/snippet.PNG)
 
-Explore my portfolio and get to know more about my work and projects by visiting the [deployed application](https://purplelume.github.io/Portfolio-react/).
+Explore my portfolio and get to know more about my work and projects by visiting the [deployed application](https://portfolio-react-simone.azurewebsites.net/).
