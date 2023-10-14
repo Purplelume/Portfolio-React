@@ -66,7 +66,7 @@ export const Projects = () => {
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <h2>Projects</h2>
                                     <p>
-                                        These are some of my projects! With my extensive experience in the MERN stack, I am well-equipped to handle complex projects and find innovative solutions to technical challenges. I thrive in collaborative environments and enjoy working closely with clients to understand their unique needs and translate them into successful web applications.
+                                        These are some of my projects! With my experience in the MERN stack, I am well-equipped to handle complex projects and find innovative solutions to challenges. I thrive in collaborative environments.
 
                                         Whether it's building an e-commerce platform, developing a social networking site, or creating a custom web application, I am dedicated to delivering exceptional results that drive business growth and exceed client expectations.
                                     </p>
@@ -99,12 +99,12 @@ export const Projects = () => {
                                             </Tab.Pane>
                                             <Tab.Pane eventKey="second">
                                                 <p>
-                                                    More is arriving!
+                                                    More is coming!
                                                 </p>
                                             </Tab.Pane>
                                             <Tab.Pane eventKey="third">
                                                 <p>
-                                                    Please wait... I'm elaborating new projects...
+                                                    ... Elaborating new projects ...
                                                 </p>
                                             </Tab.Pane>
                                         </Tab.Content>

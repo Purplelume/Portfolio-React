@@ -4,7 +4,7 @@ import meter3 from "../assets/images/meter3.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/images/color-sharp.png"
-import resumePDF from "../assets/resume.pdf"
+import resumePDF from "../assets/Resume-Simone-Monari.pdf"
 
 export const Resume = () => {
   const responsive = {
